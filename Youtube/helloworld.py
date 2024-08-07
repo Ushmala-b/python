@@ -1,0 +1,8 @@
+print("hello world", end ="")
+print('python is Awesome')
+print('python is Awesome')
+print("2+3", end="=")
+print(2+3)
+print("laptop","mobile","mike")
+print("Hi", "Hi", sep='..', end='..')
+print('Hi')
